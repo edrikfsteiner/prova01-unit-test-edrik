@@ -8,8 +8,6 @@
 
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=ugioni_unit-tests-jest&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=ugioni_unit-tests-jest)
 
-## Getting Started
-
 In order to execute this project you must follow the steps below:
 
 1. Install [Node JS](https://nodejs.org/) (version >= 20.x)
